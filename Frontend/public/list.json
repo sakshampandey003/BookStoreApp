@@ -1,0 +1,59 @@
+[
+    {
+        "id":1,
+        "name":"Friction Book",
+        "title":"Harry Potter and the Philosopher's Stone",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/portrait-fantasy-wizard-character_23-2151451003.jpg?t=st=1717913189~exp=1717916789~hmac=6b6e10060a45bb9866d9a61a68da6f6f92d91a4610ae7bf7d81b1e7376a07a15&w=740"
+    },
+    {
+        "id":2,
+        "name":"Physics World",
+        "title":"A science that deals with real world.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/kids-chemistry-laboratory-cartoon-illustration_23-2151403073.jpg?t=st=1717913322~exp=1717916922~hmac=c2c96524da05e04cdc8bf501e56f4f716d04825da7e6b542f148b1275852696a&w=740"
+    },
+    {
+        "id":3,
+        "name":"IT Hub",
+        "title":"IT Hub is developing very fast",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18383.jpg?t=st=1717913279~exp=1717916879~hmac=f75f883c1b35415818add4719c14410890d5b6aa2e7051d375ec8c8a4da19271&w=740"
+    },
+    {
+        "id":4,
+        "name":"Artificial Intelligence",
+        "title":"Artificial Intelligence (AI) is an evolving technology that tries to simulate human intelligence using machines",
+        "price":20,
+        "category":"Education",
+        "image":"https://img.freepik.com/free-vector/flat-artificial-intelligence-background_23-2147726524.jpg?t=st=1717904348~exp=1717907948~hmac=9f2b0de4b3ecb59d24b922395112070abbfd39f6dfd98d155b86ce62c74bd2e8&w=900"
+    },
+    {
+        "id":5,
+        "name":"Comics Book",
+        "title":"A comic book is an excerpt from a larger serialized narrative that is told via illustration",
+        "price":35,
+        "category":"Enternmaint",
+        "image":"https://img.freepik.com/free-vector/comics-poster-template_225004-800.jpg?t=st=1717904380~exp=1717907980~hmac=8f045a7562e8e77517d9cc562fb9eaba194b22214a7e5fc02db0d1e1265a5ba9&w=360"
+    },
+    {
+        "id":6,
+        "name":"Mahabharat",
+        "title":"The Bhagavadgita is an episode recorded in the Mahabharata, a Sanskrit epic poem of ancient India.",
+        "price":50,
+        "category":"Spritiual",
+        "image":"https://img.freepik.com/free-vector/indian-religious-festival-happy-govardhan-puja-hindu-festival-card-background_1035-25643.jpg?t=st=1717904513~exp=1717908113~hmac=799e9cc495a29ed15a711eb50f74bb88b1fa7968699b4271c6b6d5ef60e522dd&w=900"
+    },
+    {
+        "id":7,
+        "name":"Indian Democracy",
+        "title":"The democracy in India works on the principle of political equality.",
+        "price":40,
+        "category":"Education",
+        "image":"https://img.freepik.com/free-photo/front-view-people-celebrating-indian-republic-day_23-2150901345.jpg?t=st=1717904568~exp=1717908168~hmac=c6576bda9670bc7da1ff1329391009b77063adf0272af6e4dae2f46ed4f7e6da&w=360"
+    }
+
+]
